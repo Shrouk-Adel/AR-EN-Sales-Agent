@@ -1,0 +1,4017 @@
+[
+    {
+        "id": 1,
+        "name": "ElectroMax Speaker Model 539",
+        "category": "Tablet",
+        "brand": "TechCorp",
+        "price": 1154.07,
+        "stock": 392,
+        "features": [
+            "Wireless connectivity",
+            "4K resolution",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 2,
+        "name": "NextGen Tablet Model 839",
+        "category": "Gaming Console",
+        "brand": "SmartTrend",
+        "price": 898.56,
+        "stock": 268,
+        "features": [
+            "Bluetooth enabled",
+            "Fast charging",
+            "Compact design",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 3,
+        "name": "NanoTech Tablet Model 928",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 2184.53,
+        "stock": 323,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled",
+            "Fast charging",
+            "AI-powered assistant",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 4,
+        "name": "NextGen Router Model 627",
+        "category": "Router",
+        "brand": "ElectroMax",
+        "price": 1222.71,
+        "stock": 457,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 5,
+        "name": "NextGen Headphones Model 233",
+        "category": "Tablet",
+        "brand": "GigaByte",
+        "price": 2302.92,
+        "stock": 490,
+        "features": [
+            "4K resolution",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Water resistant",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 6,
+        "name": "ElectroMax Laptop Model 947",
+        "category": "Tablet",
+        "brand": "ElectroMax",
+        "price": 1588.38,
+        "stock": 107,
+        "features": [
+            "Touchscreen display",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 7,
+        "name": "NextGen Headphones Model 200",
+        "category": "Tablet",
+        "brand": "SmartTrend",
+        "price": 1257.26,
+        "stock": 3,
+        "features": [
+            "Compact design",
+            "AI-powered assistant",
+            "4K resolution",
+            "Long battery life",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 8,
+        "name": "Infinity Router Model 470",
+        "category": "Smartphone",
+        "brand": "Infinity",
+        "price": 1500.27,
+        "stock": 350,
+        "features": [
+            "AI-powered assistant",
+            "Compact design",
+            "Touchscreen display"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 9,
+        "name": "NanoTech Gaming Console Model 452",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 548.58,
+        "stock": 253,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 10,
+        "name": "CyberWare Gaming Console Model 212",
+        "category": "Router",
+        "brand": "GigaByte",
+        "price": 613.56,
+        "stock": 448,
+        "features": [
+            "Water resistant",
+            "Touchscreen display",
+            "Long battery life",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 11,
+        "name": "GigaByte Laptop Model 343",
+        "category": "Smartphone",
+        "brand": "HyperGadgets",
+        "price": 1644.4,
+        "stock": 207,
+        "features": [
+            "AI-powered assistant",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 12,
+        "name": "GigaByte Gaming Console Model 526",
+        "category": "Gaming Console",
+        "brand": "SmartTrend",
+        "price": 754.25,
+        "stock": 339,
+        "features": [
+            "Bluetooth enabled",
+            "Compact design",
+            "Long battery life",
+            "Noise cancellation",
+            "4K resolution"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 13,
+        "name": "CyberWare Tablet Model 860",
+        "category": "Laptop",
+        "brand": "HyperGadgets",
+        "price": 1979.06,
+        "stock": 4,
+        "features": [
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 14,
+        "name": "Infinity Tablet Model 532",
+        "category": "Laptop",
+        "brand": "SmartTrend",
+        "price": 1538.57,
+        "stock": 360,
+        "features": [
+            "Water resistant",
+            "Fast charging"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 15,
+        "name": "SmartTrend Headphones Model 294",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 2892.59,
+        "stock": 303,
+        "features": [
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 16,
+        "name": "SmartTrend Smartphone Model 288",
+        "category": "Headphones",
+        "brand": "Infinity",
+        "price": 482.74,
+        "stock": 248,
+        "features": [
+            "Long battery life",
+            "Touchscreen display",
+            "Fast charging"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 17,
+        "name": "CyberWare Camera Model 204",
+        "category": "Headphones",
+        "brand": "TechCorp",
+        "price": 1488.31,
+        "stock": 39,
+        "features": [
+            "Long battery life",
+            "Wireless connectivity",
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 18,
+        "name": "CyberWare Router Model 916",
+        "category": "Smartphone",
+        "brand": "CyberWare",
+        "price": 1388.71,
+        "stock": 250,
+        "features": [
+            "Wireless connectivity",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 19,
+        "name": "TechCorp TV Model 929",
+        "category": "Camera",
+        "brand": "NanoTech",
+        "price": 2492.25,
+        "stock": 398,
+        "features": [
+            "Compact design",
+            "Water resistant",
+            "Noise cancellation",
+            "Fast charging",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 20,
+        "name": "SmartTrend Smartwatch Model 846",
+        "category": "Smartwatch",
+        "brand": "GigaByte",
+        "price": 1271.31,
+        "stock": 367,
+        "features": [
+            "Compact design",
+            "Long battery life",
+            "Bluetooth enabled",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 21,
+        "name": "GigaByte TV Model 719",
+        "category": "Gaming Console",
+        "brand": "Visionary",
+        "price": 2320.5,
+        "stock": 290,
+        "features": [
+            "Water resistant",
+            "Bluetooth enabled",
+            "Noise cancellation",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 22,
+        "name": "HyperGadgets Smartwatch Model 426",
+        "category": "Smartphone",
+        "brand": "TechCorp",
+        "price": 303.32,
+        "stock": 268,
+        "features": [
+            "Water resistant",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 23,
+        "name": "TechCorp Laptop Model 790",
+        "category": "Tablet",
+        "brand": "HyperGadgets",
+        "price": 1717.57,
+        "stock": 10,
+        "features": [
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 24,
+        "name": "Infinity TV Model 997",
+        "category": "Smartwatch",
+        "brand": "TechCorp",
+        "price": 1256.43,
+        "stock": 125,
+        "features": [
+            "Compact design",
+            "Bluetooth enabled",
+            "4K resolution",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 25,
+        "name": "TechCorp Laptop Model 313",
+        "category": "Speaker",
+        "brand": "Visionary",
+        "price": 1199.89,
+        "stock": 156,
+        "features": [
+            "Fast charging",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 26,
+        "name": "Visionary Laptop Model 812",
+        "category": "Smartwatch",
+        "brand": "NanoTech",
+        "price": 1748.06,
+        "stock": 146,
+        "features": [
+            "Water resistant",
+            "AI-powered assistant",
+            "Compact design",
+            "Wireless connectivity"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 27,
+        "name": "ElectroMax Laptop Model 470",
+        "category": "Gaming Console",
+        "brand": "NextGen",
+        "price": 2421.93,
+        "stock": 330,
+        "features": [
+            "AI-powered assistant",
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 28,
+        "name": "NanoTech Smartwatch Model 974",
+        "category": "Tablet",
+        "brand": "SmartTrend",
+        "price": 1154.96,
+        "stock": 229,
+        "features": [
+            "Wireless connectivity",
+            "Compact design",
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 29,
+        "name": "CyberWare Laptop Model 361",
+        "category": "Tablet",
+        "brand": "TechCorp",
+        "price": 2380.67,
+        "stock": 325,
+        "features": [
+            "Compact design",
+            "4K resolution",
+            "Wireless connectivity",
+            "Fast charging",
+            "AI-powered assistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 30,
+        "name": "SmartTrend Gaming Console Model 931",
+        "category": "Router",
+        "brand": "Infinity",
+        "price": 754.39,
+        "stock": 118,
+        "features": [
+            "Water resistant",
+            "Touchscreen display",
+            "Fast charging",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 31,
+        "name": "TechCorp TV Model 338",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 1537.05,
+        "stock": 254,
+        "features": [
+            "Water resistant",
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 32,
+        "name": "TechCorp Gaming Console Model 202",
+        "category": "Laptop",
+        "brand": "NanoTech",
+        "price": 1467.2,
+        "stock": 270,
+        "features": [
+            "Water resistant",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 33,
+        "name": "GigaByte Camera Model 404",
+        "category": "Router",
+        "brand": "GigaByte",
+        "price": 1864.29,
+        "stock": 364,
+        "features": [
+            "Fast charging",
+            "Water resistant",
+            "AI-powered assistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 34,
+        "name": "NanoTech Speaker Model 126",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 815.31,
+        "stock": 460,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 35,
+        "name": "TechCorp Tablet Model 109",
+        "category": "Laptop",
+        "brand": "ElectroMax",
+        "price": 797.59,
+        "stock": 118,
+        "features": [
+            "Compact design",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 36,
+        "name": "ElectroMax Gaming Console Model 137",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 2217.11,
+        "stock": 354,
+        "features": [
+            "4K resolution",
+            "AI-powered assistant",
+            "Long battery life",
+            "Water resistant",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 37,
+        "name": "TechCorp Smartphone Model 962",
+        "category": "Laptop",
+        "brand": "TechCorp",
+        "price": 1637.21,
+        "stock": 229,
+        "features": [
+            "Water resistant",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 38,
+        "name": "TechCorp Camera Model 877",
+        "category": "Camera",
+        "brand": "SmartTrend",
+        "price": 347.15,
+        "stock": 307,
+        "features": [
+            "Bluetooth enabled",
+            "AI-powered assistant",
+            "Compact design",
+            "Touchscreen display",
+            "Wireless connectivity"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 39,
+        "name": "NanoTech Gaming Console Model 740",
+        "category": "Speaker",
+        "brand": "GigaByte",
+        "price": 2254.34,
+        "stock": 335,
+        "features": [
+            "Water resistant",
+            "4K resolution",
+            "AI-powered assistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 40,
+        "name": "TechCorp Headphones Model 180",
+        "category": "Smartwatch",
+        "brand": "NextGen",
+        "price": 2596.74,
+        "stock": 111,
+        "features": [
+            "Wireless connectivity",
+            "4K resolution",
+            "Bluetooth enabled",
+            "Water resistant",
+            "Long battery life"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 41,
+        "name": "HyperGadgets Gaming Console Model 964",
+        "category": "Speaker",
+        "brand": "TechCorp",
+        "price": 716.63,
+        "stock": 330,
+        "features": [
+            "AI-powered assistant",
+            "Water resistant",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 42,
+        "name": "Infinity Speaker Model 597",
+        "category": "Headphones",
+        "brand": "SmartTrend",
+        "price": 358.16,
+        "stock": 413,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 43,
+        "name": "HyperGadgets Smartphone Model 890",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 949.6,
+        "stock": 120,
+        "features": [
+            "Touchscreen display",
+            "Noise cancellation",
+            "4K resolution",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 44,
+        "name": "Infinity Speaker Model 912",
+        "category": "Tablet",
+        "brand": "Visionary",
+        "price": 2297.11,
+        "stock": 498,
+        "features": [
+            "Touchscreen display",
+            "Fast charging",
+            "Bluetooth enabled",
+            "Compact design",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 45,
+        "name": "TechCorp Smartphone Model 673",
+        "category": "Smartphone",
+        "brand": "SmartTrend",
+        "price": 99.93,
+        "stock": 317,
+        "features": [
+            "Water resistant",
+            "Compact design"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 46,
+        "name": "NanoTech Speaker Model 186",
+        "category": "Gaming Console",
+        "brand": "CyberWare",
+        "price": 1348.07,
+        "stock": 242,
+        "features": [
+            "Bluetooth enabled",
+            "Compact design",
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 47,
+        "name": "TechCorp Camera Model 256",
+        "category": "Tablet",
+        "brand": "Infinity",
+        "price": 480.68,
+        "stock": 480,
+        "features": [
+            "Wireless connectivity",
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 48,
+        "name": "ElectroMax Gaming Console Model 951",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 943.61,
+        "stock": 326,
+        "features": [
+            "Noise cancellation",
+            "Bluetooth enabled"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 49,
+        "name": "HyperGadgets Router Model 630",
+        "category": "TV",
+        "brand": "CyberWare",
+        "price": 2165.83,
+        "stock": 128,
+        "features": [
+            "Fast charging",
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 50,
+        "name": "SmartTrend Smartphone Model 913",
+        "category": "Router",
+        "brand": "ElectroMax",
+        "price": 2724.49,
+        "stock": 150,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 51,
+        "name": "CyberWare Camera Model 187",
+        "category": "Smartwatch",
+        "brand": "Infinity",
+        "price": 124.28,
+        "stock": 202,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 52,
+        "name": "TechCorp Router Model 628",
+        "category": "Gaming Console",
+        "brand": "CyberWare",
+        "price": 2041.63,
+        "stock": 466,
+        "features": [
+            "AI-powered assistant",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 53,
+        "name": "CyberWare Tablet Model 133",
+        "category": "Speaker",
+        "brand": "HyperGadgets",
+        "price": 297.77,
+        "stock": 250,
+        "features": [
+            "4K resolution",
+            "Noise cancellation",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 54,
+        "name": "NanoTech Camera Model 241",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 1004.01,
+        "stock": 167,
+        "features": [
+            "Noise cancellation",
+            "Compact design",
+            "Water resistant",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 55,
+        "name": "Visionary Smartwatch Model 248",
+        "category": "Smartphone",
+        "brand": "GigaByte",
+        "price": 310.49,
+        "stock": 420,
+        "features": [
+            "Fast charging",
+            "Touchscreen display",
+            "Water resistant",
+            "Wireless connectivity",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 56,
+        "name": "HyperGadgets Camera Model 876",
+        "category": "Laptop",
+        "brand": "CyberWare",
+        "price": 2069.39,
+        "stock": 311,
+        "features": [
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "Compact design",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 57,
+        "name": "Infinity Laptop Model 883",
+        "category": "Camera",
+        "brand": "Visionary",
+        "price": 532.83,
+        "stock": 428,
+        "features": [
+            "Water resistant",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 58,
+        "name": "CyberWare Speaker Model 865",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 306.27,
+        "stock": 368,
+        "features": [
+            "Long battery life",
+            "Fast charging",
+            "AI-powered assistant",
+            "Water resistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 59,
+        "name": "SmartTrend Router Model 464",
+        "category": "Smartphone",
+        "brand": "ElectroMax",
+        "price": 873.41,
+        "stock": 56,
+        "features": [
+            "Bluetooth enabled",
+            "AI-powered assistant",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 60,
+        "name": "TechCorp Speaker Model 183",
+        "category": "Gaming Console",
+        "brand": "HyperGadgets",
+        "price": 717.49,
+        "stock": 422,
+        "features": [
+            "Fast charging",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 61,
+        "name": "Visionary Headphones Model 602",
+        "category": "Laptop",
+        "brand": "Infinity",
+        "price": 218.19,
+        "stock": 214,
+        "features": [
+            "4K resolution",
+            "Compact design"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 62,
+        "name": "ElectroMax Speaker Model 253",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 1642.16,
+        "stock": 238,
+        "features": [
+            "AI-powered assistant",
+            "4K resolution",
+            "Bluetooth enabled",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 63,
+        "name": "Visionary Smartphone Model 499",
+        "category": "Router",
+        "brand": "TechCorp",
+        "price": 1940.91,
+        "stock": 194,
+        "features": [
+            "Water resistant",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 64,
+        "name": "HyperGadgets Tablet Model 530",
+        "category": "Laptop",
+        "brand": "ElectroMax",
+        "price": 1548.46,
+        "stock": 419,
+        "features": [
+            "Compact design",
+            "Noise cancellation",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 65,
+        "name": "SmartTrend Laptop Model 568",
+        "category": "Smartwatch",
+        "brand": "ElectroMax",
+        "price": 2232.53,
+        "stock": 192,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 66,
+        "name": "NanoTech Smartphone Model 264",
+        "category": "Tablet",
+        "brand": "ElectroMax",
+        "price": 912.48,
+        "stock": 35,
+        "features": [
+            "Fast charging",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 67,
+        "name": "Visionary Headphones Model 115",
+        "category": "Router",
+        "brand": "Infinity",
+        "price": 2358.19,
+        "stock": 158,
+        "features": [
+            "Bluetooth enabled",
+            "4K resolution",
+            "Fast charging",
+            "Water resistant",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 68,
+        "name": "Visionary Smartphone Model 324",
+        "category": "TV",
+        "brand": "Infinity",
+        "price": 2044.0,
+        "stock": 78,
+        "features": [
+            "Water resistant",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 69,
+        "name": "Infinity Camera Model 728",
+        "category": "Gaming Console",
+        "brand": "CyberWare",
+        "price": 1215.45,
+        "stock": 300,
+        "features": [
+            "4K resolution",
+            "Touchscreen display",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 70,
+        "name": "Infinity Smartwatch Model 230",
+        "category": "Smartphone",
+        "brand": "Visionary",
+        "price": 2995.14,
+        "stock": 468,
+        "features": [
+            "Wireless connectivity",
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 71,
+        "name": "CyberWare Tablet Model 332",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 767.62,
+        "stock": 20,
+        "features": [
+            "Compact design",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Fast charging",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 72,
+        "name": "GigaByte Tablet Model 764",
+        "category": "Speaker",
+        "brand": "Infinity",
+        "price": 587.15,
+        "stock": 257,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 73,
+        "name": "ElectroMax Smartphone Model 895",
+        "category": "Speaker",
+        "brand": "CyberWare",
+        "price": 838.25,
+        "stock": 486,
+        "features": [
+            "Bluetooth enabled",
+            "4K resolution",
+            "Compact design",
+            "Fast charging",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 74,
+        "name": "NextGen Camera Model 718",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 894.82,
+        "stock": 454,
+        "features": [
+            "Touchscreen display",
+            "Wireless connectivity",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 75,
+        "name": "NextGen Camera Model 821",
+        "category": "TV",
+        "brand": "ElectroMax",
+        "price": 1930.56,
+        "stock": 462,
+        "features": [
+            "Compact design",
+            "Noise cancellation",
+            "AI-powered assistant",
+            "Fast charging",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 76,
+        "name": "NanoTech Gaming Console Model 980",
+        "category": "Smartphone",
+        "brand": "SmartTrend",
+        "price": 606.62,
+        "stock": 361,
+        "features": [
+            "Compact design",
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Fast charging",
+            "Wireless connectivity"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 77,
+        "name": "SmartTrend TV Model 351",
+        "category": "Headphones",
+        "brand": "ElectroMax",
+        "price": 1088.79,
+        "stock": 128,
+        "features": [
+            "Long battery life",
+            "Compact design",
+            "Touchscreen display",
+            "Noise cancellation"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 78,
+        "name": "NextGen Laptop Model 533",
+        "category": "Laptop",
+        "brand": "ElectroMax",
+        "price": 155.8,
+        "stock": 7,
+        "features": [
+            "Long battery life",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 79,
+        "name": "Visionary Camera Model 506",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 1667.33,
+        "stock": 438,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "Bluetooth enabled"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 80,
+        "name": "NextGen Camera Model 883",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 71.55,
+        "stock": 374,
+        "features": [
+            "AI-powered assistant",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 81,
+        "name": "SmartTrend Speaker Model 767",
+        "category": "Camera",
+        "brand": "TechCorp",
+        "price": 2953.82,
+        "stock": 146,
+        "features": [
+            "Wireless connectivity",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 82,
+        "name": "Visionary TV Model 993",
+        "category": "TV",
+        "brand": "NextGen",
+        "price": 2136.07,
+        "stock": 482,
+        "features": [
+            "AI-powered assistant",
+            "Touchscreen display",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 83,
+        "name": "TechCorp Tablet Model 704",
+        "category": "Headphones",
+        "brand": "Infinity",
+        "price": 1225.43,
+        "stock": 391,
+        "features": [
+            "4K resolution",
+            "Long battery life",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 84,
+        "name": "NanoTech Camera Model 405",
+        "category": "Smartwatch",
+        "brand": "TechCorp",
+        "price": 87.7,
+        "stock": 404,
+        "features": [
+            "Fast charging",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 85,
+        "name": "NanoTech TV Model 412",
+        "category": "Gaming Console",
+        "brand": "NextGen",
+        "price": 1950.98,
+        "stock": 445,
+        "features": [
+            "4K resolution",
+            "Noise cancellation"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 86,
+        "name": "TechCorp Tablet Model 366",
+        "category": "Tablet",
+        "brand": "CyberWare",
+        "price": 2097.12,
+        "stock": 435,
+        "features": [
+            "Bluetooth enabled",
+            "Touchscreen display",
+            "Fast charging",
+            "Noise cancellation"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 87,
+        "name": "NanoTech Speaker Model 959",
+        "category": "Smartwatch",
+        "brand": "HyperGadgets",
+        "price": 374.83,
+        "stock": 254,
+        "features": [
+            "Compact design",
+            "Wireless connectivity",
+            "Noise cancellation",
+            "Bluetooth enabled",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 88,
+        "name": "CyberWare Camera Model 228",
+        "category": "Camera",
+        "brand": "NanoTech",
+        "price": 2224.33,
+        "stock": 289,
+        "features": [
+            "Water resistant",
+            "Wireless connectivity",
+            "Fast charging",
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 89,
+        "name": "NextGen Camera Model 193",
+        "category": "Laptop",
+        "brand": "ElectroMax",
+        "price": 1020.51,
+        "stock": 237,
+        "features": [
+            "Wireless connectivity",
+            "Fast charging",
+            "4K resolution",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 90,
+        "name": "Infinity Smartwatch Model 122",
+        "category": "Headphones",
+        "brand": "GigaByte",
+        "price": 999.75,
+        "stock": 250,
+        "features": [
+            "Wireless connectivity",
+            "Compact design",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 91,
+        "name": "NextGen Headphones Model 113",
+        "category": "TV",
+        "brand": "GigaByte",
+        "price": 2595.93,
+        "stock": 15,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 92,
+        "name": "Infinity Headphones Model 527",
+        "category": "Smartphone",
+        "brand": "CyberWare",
+        "price": 158.73,
+        "stock": 352,
+        "features": [
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 93,
+        "name": "TechCorp Router Model 594",
+        "category": "Router",
+        "brand": "NextGen",
+        "price": 384.97,
+        "stock": 391,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Noise cancellation",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 94,
+        "name": "GigaByte Headphones Model 349",
+        "category": "Camera",
+        "brand": "Visionary",
+        "price": 1020.13,
+        "stock": 244,
+        "features": [
+            "Noise cancellation",
+            "4K resolution",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 95,
+        "name": "CyberWare Camera Model 622",
+        "category": "Laptop",
+        "brand": "NextGen",
+        "price": 299.67,
+        "stock": 464,
+        "features": [
+            "Touchscreen display",
+            "Wireless connectivity",
+            "Long battery life",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 96,
+        "name": "SmartTrend Gaming Console Model 900",
+        "category": "Headphones",
+        "brand": "CyberWare",
+        "price": 1014.79,
+        "stock": 224,
+        "features": [
+            "AI-powered assistant",
+            "Bluetooth enabled",
+            "Long battery life",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 97,
+        "name": "Visionary Tablet Model 430",
+        "category": "Laptop",
+        "brand": "CyberWare",
+        "price": 2416.08,
+        "stock": 222,
+        "features": [
+            "Compact design",
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "4K resolution",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 98,
+        "name": "Infinity TV Model 104",
+        "category": "Speaker",
+        "brand": "ElectroMax",
+        "price": 329.35,
+        "stock": 415,
+        "features": [
+            "Noise cancellation",
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 99,
+        "name": "Infinity TV Model 796",
+        "category": "Laptop",
+        "brand": "TechCorp",
+        "price": 1462.32,
+        "stock": 391,
+        "features": [
+            "Compact design",
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 100,
+        "name": "CyberWare TV Model 687",
+        "category": "Camera",
+        "brand": "HyperGadgets",
+        "price": 2676.03,
+        "stock": 348,
+        "features": [
+            "Long battery life",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 101,
+        "name": "HyperGadgets Smartwatch Model 412",
+        "category": "Router",
+        "brand": "ElectroMax",
+        "price": 1965.17,
+        "stock": 192,
+        "features": [
+            "Water resistant",
+            "Fast charging",
+            "Noise cancellation",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 102,
+        "name": "ElectroMax Laptop Model 525",
+        "category": "Smartwatch",
+        "brand": "HyperGadgets",
+        "price": 1106.58,
+        "stock": 137,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Touchscreen display",
+            "Wireless connectivity"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 103,
+        "name": "NextGen Headphones Model 354",
+        "category": "Gaming Console",
+        "brand": "NextGen",
+        "price": 1971.31,
+        "stock": 137,
+        "features": [
+            "AI-powered assistant",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 104,
+        "name": "NextGen Gaming Console Model 963",
+        "category": "Laptop",
+        "brand": "CyberWare",
+        "price": 996.89,
+        "stock": 409,
+        "features": [
+            "Fast charging",
+            "Compact design",
+            "4K resolution",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 105,
+        "name": "CyberWare Smartwatch Model 427",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 104.78,
+        "stock": 106,
+        "features": [
+            "4K resolution",
+            "Long battery life",
+            "Bluetooth enabled",
+            "Noise cancellation",
+            "Wireless connectivity"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 106,
+        "name": "NanoTech Camera Model 731",
+        "category": "Gaming Console",
+        "brand": "NanoTech",
+        "price": 2045.3,
+        "stock": 267,
+        "features": [
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 107,
+        "name": "TechCorp Smartwatch Model 488",
+        "category": "Headphones",
+        "brand": "NanoTech",
+        "price": 626.28,
+        "stock": 233,
+        "features": [
+            "Touchscreen display",
+            "Noise cancellation",
+            "Bluetooth enabled",
+            "4K resolution",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 108,
+        "name": "TechCorp Speaker Model 142",
+        "category": "Router",
+        "brand": "NanoTech",
+        "price": 437.3,
+        "stock": 50,
+        "features": [
+            "Compact design",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 109,
+        "name": "Visionary Laptop Model 498",
+        "category": "Laptop",
+        "brand": "CyberWare",
+        "price": 1817.7,
+        "stock": 131,
+        "features": [
+            "Long battery life",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 110,
+        "name": "Visionary Speaker Model 927",
+        "category": "Smartwatch",
+        "brand": "ElectroMax",
+        "price": 2606.62,
+        "stock": 219,
+        "features": [
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Long battery life",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 111,
+        "name": "ElectroMax Speaker Model 989",
+        "category": "Router",
+        "brand": "SmartTrend",
+        "price": 2382.89,
+        "stock": 365,
+        "features": [
+            "Bluetooth enabled",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Water resistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 112,
+        "name": "HyperGadgets Router Model 562",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 2479.64,
+        "stock": 159,
+        "features": [
+            "AI-powered assistant",
+            "Compact design",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 113,
+        "name": "NextGen Camera Model 336",
+        "category": "Speaker",
+        "brand": "GigaByte",
+        "price": 1037.18,
+        "stock": 364,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 114,
+        "name": "NanoTech Gaming Console Model 898",
+        "category": "TV",
+        "brand": "SmartTrend",
+        "price": 734.33,
+        "stock": 247,
+        "features": [
+            "Touchscreen display",
+            "Noise cancellation",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 115,
+        "name": "Infinity Camera Model 811",
+        "category": "Router",
+        "brand": "TechCorp",
+        "price": 2788.98,
+        "stock": 431,
+        "features": [
+            "Fast charging",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 116,
+        "name": "NextGen Speaker Model 786",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 2004.92,
+        "stock": 155,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Fast charging",
+            "Noise cancellation",
+            "Wireless connectivity"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 117,
+        "name": "GigaByte Camera Model 718",
+        "category": "Headphones",
+        "brand": "GigaByte",
+        "price": 1921.59,
+        "stock": 288,
+        "features": [
+            "Wireless connectivity",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 118,
+        "name": "TechCorp Gaming Console Model 260",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 492.95,
+        "stock": 237,
+        "features": [
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 119,
+        "name": "Visionary TV Model 315",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 2038.81,
+        "stock": 159,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Long battery life",
+            "Wireless connectivity"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 120,
+        "name": "ElectroMax Camera Model 966",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 1066.98,
+        "stock": 204,
+        "features": [
+            "Long battery life",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Noise cancellation",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 121,
+        "name": "NanoTech Speaker Model 556",
+        "category": "Laptop",
+        "brand": "Infinity",
+        "price": 175.28,
+        "stock": 240,
+        "features": [
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Water resistant",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 122,
+        "name": "Visionary Smartwatch Model 398",
+        "category": "Speaker",
+        "brand": "SmartTrend",
+        "price": 865.45,
+        "stock": 364,
+        "features": [
+            "Bluetooth enabled",
+            "Wireless connectivity",
+            "Noise cancellation",
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 123,
+        "name": "GigaByte Camera Model 501",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 2521.86,
+        "stock": 309,
+        "features": [
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 124,
+        "name": "TechCorp Laptop Model 288",
+        "category": "Gaming Console",
+        "brand": "NanoTech",
+        "price": 1541.13,
+        "stock": 197,
+        "features": [
+            "Water resistant",
+            "Wireless connectivity"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 125,
+        "name": "ElectroMax Speaker Model 663",
+        "category": "Laptop",
+        "brand": "NanoTech",
+        "price": 1695.35,
+        "stock": 29,
+        "features": [
+            "Wireless connectivity",
+            "Compact design",
+            "4K resolution",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 126,
+        "name": "NextGen Router Model 958",
+        "category": "Speaker",
+        "brand": "Infinity",
+        "price": 2063.17,
+        "stock": 498,
+        "features": [
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 127,
+        "name": "CyberWare Gaming Console Model 383",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 1387.99,
+        "stock": 297,
+        "features": [
+            "Compact design",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 128,
+        "name": "CyberWare Camera Model 944",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 621.57,
+        "stock": 330,
+        "features": [
+            "Bluetooth enabled",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 129,
+        "name": "NanoTech Gaming Console Model 959",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 208.66,
+        "stock": 35,
+        "features": [
+            "Bluetooth enabled",
+            "Long battery life"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 130,
+        "name": "NanoTech Smartwatch Model 998",
+        "category": "Tablet",
+        "brand": "CyberWare",
+        "price": 1609.03,
+        "stock": 269,
+        "features": [
+            "Water resistant",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 131,
+        "name": "TechCorp Headphones Model 362",
+        "category": "Smartphone",
+        "brand": "HyperGadgets",
+        "price": 1855.42,
+        "stock": 359,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "AI-powered assistant",
+            "Touchscreen display",
+            "Bluetooth enabled"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 132,
+        "name": "Visionary Router Model 589",
+        "category": "Smartwatch",
+        "brand": "ElectroMax",
+        "price": 2617.21,
+        "stock": 450,
+        "features": [
+            "Wireless connectivity",
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 133,
+        "name": "Infinity TV Model 301",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 2392.87,
+        "stock": 400,
+        "features": [
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 134,
+        "name": "NanoTech Router Model 131",
+        "category": "Headphones",
+        "brand": "ElectroMax",
+        "price": 2234.67,
+        "stock": 490,
+        "features": [
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 135,
+        "name": "NanoTech Tablet Model 838",
+        "category": "Smartphone",
+        "brand": "ElectroMax",
+        "price": 115.89,
+        "stock": 427,
+        "features": [
+            "Compact design",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 136,
+        "name": "ElectroMax Smartphone Model 110",
+        "category": "Headphones",
+        "brand": "NanoTech",
+        "price": 2444.52,
+        "stock": 367,
+        "features": [
+            "Long battery life",
+            "Compact design"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 137,
+        "name": "HyperGadgets Laptop Model 127",
+        "category": "Headphones",
+        "brand": "Visionary",
+        "price": 1682.03,
+        "stock": 160,
+        "features": [
+            "Touchscreen display",
+            "4K resolution",
+            "AI-powered assistant",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 138,
+        "name": "NextGen Smartwatch Model 992",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 1616.81,
+        "stock": 56,
+        "features": [
+            "Touchscreen display",
+            "Long battery life",
+            "Wireless connectivity",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 139,
+        "name": "SmartTrend Headphones Model 937",
+        "category": "Router",
+        "brand": "CyberWare",
+        "price": 706.8,
+        "stock": 378,
+        "features": [
+            "Long battery life",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 140,
+        "name": "TechCorp Laptop Model 118",
+        "category": "Speaker",
+        "brand": "NextGen",
+        "price": 2659.49,
+        "stock": 304,
+        "features": [
+            "Long battery life",
+            "Bluetooth enabled",
+            "Touchscreen display",
+            "Compact design",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 141,
+        "name": "NanoTech Camera Model 976",
+        "category": "Smartphone",
+        "brand": "TechCorp",
+        "price": 1012.63,
+        "stock": 176,
+        "features": [
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Wireless connectivity",
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 142,
+        "name": "ElectroMax Gaming Console Model 409",
+        "category": "Headphones",
+        "brand": "SmartTrend",
+        "price": 2883.62,
+        "stock": 403,
+        "features": [
+            "Noise cancellation",
+            "Bluetooth enabled",
+            "Water resistant",
+            "Fast charging"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 143,
+        "name": "ElectroMax Smartwatch Model 123",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 2468.18,
+        "stock": 234,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 144,
+        "name": "SmartTrend Smartwatch Model 360",
+        "category": "Laptop",
+        "brand": "NextGen",
+        "price": 1269.89,
+        "stock": 404,
+        "features": [
+            "Long battery life",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 145,
+        "name": "TechCorp Laptop Model 142",
+        "category": "Camera",
+        "brand": "HyperGadgets",
+        "price": 2456.88,
+        "stock": 416,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "AI-powered assistant",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 146,
+        "name": "Visionary Laptop Model 982",
+        "category": "Tablet",
+        "brand": "SmartTrend",
+        "price": 1031.73,
+        "stock": 312,
+        "features": [
+            "Long battery life",
+            "Noise cancellation"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 147,
+        "name": "ElectroMax Smartwatch Model 157",
+        "category": "Speaker",
+        "brand": "HyperGadgets",
+        "price": 1773.71,
+        "stock": 248,
+        "features": [
+            "Compact design",
+            "4K resolution"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 148,
+        "name": "GigaByte Headphones Model 782",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 1867.24,
+        "stock": 303,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Compact design",
+            "Bluetooth enabled"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 149,
+        "name": "ElectroMax Speaker Model 335",
+        "category": "Speaker",
+        "brand": "NextGen",
+        "price": 2369.02,
+        "stock": 368,
+        "features": [
+            "Long battery life",
+            "Water resistant",
+            "AI-powered assistant",
+            "Fast charging",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 150,
+        "name": "Infinity Router Model 324",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 2923.25,
+        "stock": 87,
+        "features": [
+            "AI-powered assistant",
+            "Long battery life",
+            "Noise cancellation",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 151,
+        "name": "Infinity Smartphone Model 277",
+        "category": "Smartwatch",
+        "brand": "NextGen",
+        "price": 1543.97,
+        "stock": 20,
+        "features": [
+            "Bluetooth enabled",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 152,
+        "name": "Infinity Headphones Model 352",
+        "category": "Laptop",
+        "brand": "GigaByte",
+        "price": 2349.02,
+        "stock": 271,
+        "features": [
+            "Bluetooth enabled",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 153,
+        "name": "TechCorp Smartphone Model 791",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 386.68,
+        "stock": 385,
+        "features": [
+            "Water resistant",
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 154,
+        "name": "NextGen Laptop Model 839",
+        "category": "Headphones",
+        "brand": "NextGen",
+        "price": 2237.85,
+        "stock": 378,
+        "features": [
+            "Bluetooth enabled",
+            "Water resistant",
+            "Compact design"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 155,
+        "name": "ElectroMax Tablet Model 686",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 2122.62,
+        "stock": 318,
+        "features": [
+            "AI-powered assistant",
+            "Wireless connectivity",
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 156,
+        "name": "GigaByte Headphones Model 403",
+        "category": "Camera",
+        "brand": "Visionary",
+        "price": 1075.76,
+        "stock": 41,
+        "features": [
+            "AI-powered assistant",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 157,
+        "name": "HyperGadgets Camera Model 682",
+        "category": "Camera",
+        "brand": "NextGen",
+        "price": 2152.0,
+        "stock": 464,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled",
+            "Touchscreen display",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 158,
+        "name": "GigaByte TV Model 778",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 1275.27,
+        "stock": 337,
+        "features": [
+            "Water resistant",
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 159,
+        "name": "CyberWare Laptop Model 192",
+        "category": "TV",
+        "brand": "TechCorp",
+        "price": 404.41,
+        "stock": 48,
+        "features": [
+            "Noise cancellation",
+            "Wireless connectivity",
+            "Fast charging"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 160,
+        "name": "Visionary TV Model 171",
+        "category": "Speaker",
+        "brand": "SmartTrend",
+        "price": 140.87,
+        "stock": 191,
+        "features": [
+            "Long battery life",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 161,
+        "name": "ElectroMax Speaker Model 879",
+        "category": "Gaming Console",
+        "brand": "CyberWare",
+        "price": 2063.89,
+        "stock": 357,
+        "features": [
+            "Bluetooth enabled",
+            "Noise cancellation",
+            "Water resistant",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 162,
+        "name": "ElectroMax Smartwatch Model 737",
+        "category": "Smartwatch",
+        "brand": "CyberWare",
+        "price": 1872.15,
+        "stock": 81,
+        "features": [
+            "Bluetooth enabled",
+            "Water resistant",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 163,
+        "name": "NanoTech Smartwatch Model 366",
+        "category": "Router",
+        "brand": "Infinity",
+        "price": 1009.4,
+        "stock": 422,
+        "features": [
+            "AI-powered assistant",
+            "Bluetooth enabled",
+            "Long battery life",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 164,
+        "name": "NanoTech Router Model 851",
+        "category": "Smartwatch",
+        "brand": "SmartTrend",
+        "price": 1471.53,
+        "stock": 366,
+        "features": [
+            "Touchscreen display",
+            "4K resolution"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 165,
+        "name": "ElectroMax Speaker Model 814",
+        "category": "Smartwatch",
+        "brand": "GigaByte",
+        "price": 324.34,
+        "stock": 409,
+        "features": [
+            "4K resolution",
+            "Long battery life",
+            "Fast charging",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 166,
+        "name": "ElectroMax Headphones Model 673",
+        "category": "Gaming Console",
+        "brand": "ElectroMax",
+        "price": 1296.07,
+        "stock": 351,
+        "features": [
+            "Wireless connectivity",
+            "Fast charging"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 167,
+        "name": "ElectroMax TV Model 709",
+        "category": "Router",
+        "brand": "TechCorp",
+        "price": 1598.88,
+        "stock": 280,
+        "features": [
+            "AI-powered assistant",
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 168,
+        "name": "NanoTech Headphones Model 137",
+        "category": "Camera",
+        "brand": "NanoTech",
+        "price": 1623.28,
+        "stock": 337,
+        "features": [
+            "Bluetooth enabled",
+            "Wireless connectivity",
+            "4K resolution",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 169,
+        "name": "HyperGadgets Smartwatch Model 997",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 192.21,
+        "stock": 262,
+        "features": [
+            "Compact design",
+            "Water resistant",
+            "Bluetooth enabled",
+            "Touchscreen display",
+            "Fast charging"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 170,
+        "name": "SmartTrend TV Model 834",
+        "category": "Camera",
+        "brand": "TechCorp",
+        "price": 1877.67,
+        "stock": 242,
+        "features": [
+            "AI-powered assistant",
+            "Compact design",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 171,
+        "name": "Visionary Headphones Model 786",
+        "category": "TV",
+        "brand": "TechCorp",
+        "price": 583.8,
+        "stock": 35,
+        "features": [
+            "AI-powered assistant",
+            "Fast charging",
+            "Touchscreen display",
+            "Compact design"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 172,
+        "name": "Visionary Laptop Model 978",
+        "category": "TV",
+        "brand": "HyperGadgets",
+        "price": 1282.54,
+        "stock": 303,
+        "features": [
+            "Noise cancellation",
+            "4K resolution",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 173,
+        "name": "TechCorp Camera Model 524",
+        "category": "Router",
+        "brand": "CyberWare",
+        "price": 498.69,
+        "stock": 347,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 174,
+        "name": "HyperGadgets Gaming Console Model 431",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 2714.99,
+        "stock": 345,
+        "features": [
+            "Fast charging",
+            "Wireless connectivity"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 175,
+        "name": "Infinity Camera Model 917",
+        "category": "Speaker",
+        "brand": "NextGen",
+        "price": 182.87,
+        "stock": 208,
+        "features": [
+            "Long battery life",
+            "4K resolution",
+            "Compact design",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 176,
+        "name": "NanoTech Smartwatch Model 169",
+        "category": "Speaker",
+        "brand": "Visionary",
+        "price": 154.88,
+        "stock": 462,
+        "features": [
+            "Fast charging",
+            "Long battery life",
+            "Touchscreen display",
+            "Compact design",
+            "Water resistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 177,
+        "name": "GigaByte Router Model 606",
+        "category": "Smartphone",
+        "brand": "NextGen",
+        "price": 1683.72,
+        "stock": 312,
+        "features": [
+            "Long battery life",
+            "Water resistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 178,
+        "name": "Visionary Smartphone Model 140",
+        "category": "Smartwatch",
+        "brand": "CyberWare",
+        "price": 1363.91,
+        "stock": 404,
+        "features": [
+            "AI-powered assistant",
+            "Compact design",
+            "Long battery life"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 179,
+        "name": "GigaByte Gaming Console Model 940",
+        "category": "Headphones",
+        "brand": "SmartTrend",
+        "price": 1458.71,
+        "stock": 100,
+        "features": [
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "Compact design",
+            "Long battery life",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 180,
+        "name": "Visionary Tablet Model 760",
+        "category": "Smartphone",
+        "brand": "ElectroMax",
+        "price": 50.22,
+        "stock": 122,
+        "features": [
+            "Compact design",
+            "Long battery life",
+            "AI-powered assistant",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 181,
+        "name": "GigaByte Router Model 871",
+        "category": "Headphones",
+        "brand": "ElectroMax",
+        "price": 2329.0,
+        "stock": 463,
+        "features": [
+            "Touchscreen display",
+            "Fast charging",
+            "Compact design",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 182,
+        "name": "TechCorp Tablet Model 918",
+        "category": "Headphones",
+        "brand": "NanoTech",
+        "price": 1120.14,
+        "stock": 112,
+        "features": [
+            "Touchscreen display",
+            "Wireless connectivity",
+            "AI-powered assistant",
+            "Bluetooth enabled",
+            "Compact design"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 183,
+        "name": "TechCorp Laptop Model 489",
+        "category": "Laptop",
+        "brand": "SmartTrend",
+        "price": 511.69,
+        "stock": 261,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 184,
+        "name": "TechCorp Router Model 268",
+        "category": "Laptop",
+        "brand": "SmartTrend",
+        "price": 1501.82,
+        "stock": 421,
+        "features": [
+            "Long battery life",
+            "Wireless connectivity",
+            "Water resistant",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 185,
+        "name": "NextGen Gaming Console Model 497",
+        "category": "Smartphone",
+        "brand": "SmartTrend",
+        "price": 2787.64,
+        "stock": 28,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 186,
+        "name": "ElectroMax Speaker Model 402",
+        "category": "Gaming Console",
+        "brand": "Visionary",
+        "price": 2364.34,
+        "stock": 162,
+        "features": [
+            "Compact design",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 187,
+        "name": "HyperGadgets Headphones Model 573",
+        "category": "TV",
+        "brand": "CyberWare",
+        "price": 2085.91,
+        "stock": 451,
+        "features": [
+            "Fast charging",
+            "Water resistant",
+            "AI-powered assistant",
+            "Long battery life",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 188,
+        "name": "CyberWare TV Model 895",
+        "category": "Gaming Console",
+        "brand": "GigaByte",
+        "price": 2344.58,
+        "stock": 46,
+        "features": [
+            "AI-powered assistant",
+            "Noise cancellation",
+            "Water resistant",
+            "Wireless connectivity",
+            "Bluetooth enabled"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 189,
+        "name": "Visionary Camera Model 943",
+        "category": "Router",
+        "brand": "CyberWare",
+        "price": 2537.73,
+        "stock": 278,
+        "features": [
+            "Touchscreen display",
+            "Fast charging",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 190,
+        "name": "NanoTech Laptop Model 840",
+        "category": "Headphones",
+        "brand": "Infinity",
+        "price": 1576.11,
+        "stock": 137,
+        "features": [
+            "Long battery life",
+            "Noise cancellation",
+            "Fast charging",
+            "Bluetooth enabled"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 191,
+        "name": "ElectroMax Speaker Model 106",
+        "category": "Gaming Console",
+        "brand": "HyperGadgets",
+        "price": 1498.63,
+        "stock": 271,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 192,
+        "name": "CyberWare Smartwatch Model 308",
+        "category": "Router",
+        "brand": "TechCorp",
+        "price": 385.18,
+        "stock": 225,
+        "features": [
+            "Compact design",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 193,
+        "name": "HyperGadgets Router Model 771",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 1688.73,
+        "stock": 348,
+        "features": [
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 194,
+        "name": "NextGen Headphones Model 462",
+        "category": "Camera",
+        "brand": "NanoTech",
+        "price": 133.37,
+        "stock": 479,
+        "features": [
+            "Wireless connectivity",
+            "Fast charging",
+            "4K resolution",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 195,
+        "name": "CyberWare Smartphone Model 688",
+        "category": "Tablet",
+        "brand": "SmartTrend",
+        "price": 441.77,
+        "stock": 33,
+        "features": [
+            "Wireless connectivity",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 196,
+        "name": "CyberWare Speaker Model 301",
+        "category": "Smartphone",
+        "brand": "GigaByte",
+        "price": 1680.65,
+        "stock": 138,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "Noise cancellation",
+            "Long battery life"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 197,
+        "name": "Infinity Camera Model 330",
+        "category": "Smartwatch",
+        "brand": "NextGen",
+        "price": 2504.93,
+        "stock": 127,
+        "features": [
+            "AI-powered assistant",
+            "Wireless connectivity",
+            "Touchscreen display",
+            "Compact design",
+            "Long battery life"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 198,
+        "name": "NanoTech Gaming Console Model 210",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 716.32,
+        "stock": 473,
+        "features": [
+            "Water resistant",
+            "Touchscreen display",
+            "Fast charging",
+            "Compact design"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 199,
+        "name": "HyperGadgets Gaming Console Model 323",
+        "category": "Router",
+        "brand": "GigaByte",
+        "price": 1621.76,
+        "stock": 271,
+        "features": [
+            "Compact design",
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 200,
+        "name": "NextGen Headphones Model 400",
+        "category": "Laptop",
+        "brand": "SmartTrend",
+        "price": 954.98,
+        "stock": 180,
+        "features": [
+            "AI-powered assistant",
+            "Wireless connectivity"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 201,
+        "name": "NanoTech Smartphone Model 503",
+        "category": "Speaker",
+        "brand": "NextGen",
+        "price": 2118.32,
+        "stock": 384,
+        "features": [
+            "Touchscreen display",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 202,
+        "name": "NextGen TV Model 278",
+        "category": "Headphones",
+        "brand": "ElectroMax",
+        "price": 513.52,
+        "stock": 40,
+        "features": [
+            "Bluetooth enabled",
+            "Compact design",
+            "4K resolution",
+            "Long battery life",
+            "Noise cancellation"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 203,
+        "name": "NanoTech Laptop Model 251",
+        "category": "Camera",
+        "brand": "Visionary",
+        "price": 1173.35,
+        "stock": 421,
+        "features": [
+            "Wireless connectivity",
+            "Compact design",
+            "Fast charging",
+            "Water resistant",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 204,
+        "name": "SmartTrend TV Model 875",
+        "category": "Speaker",
+        "brand": "HyperGadgets",
+        "price": 60.03,
+        "stock": 490,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 205,
+        "name": "ElectroMax Camera Model 241",
+        "category": "TV",
+        "brand": "TechCorp",
+        "price": 2747.36,
+        "stock": 49,
+        "features": [
+            "Wireless connectivity",
+            "4K resolution"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 206,
+        "name": "SmartTrend Tablet Model 105",
+        "category": "Laptop",
+        "brand": "GigaByte",
+        "price": 2000.43,
+        "stock": 169,
+        "features": [
+            "Fast charging",
+            "Noise cancellation",
+            "Wireless connectivity",
+            "4K resolution"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 207,
+        "name": "CyberWare Tablet Model 703",
+        "category": "Tablet",
+        "brand": "NanoTech",
+        "price": 2867.39,
+        "stock": 396,
+        "features": [
+            "Fast charging",
+            "Touchscreen display",
+            "Wireless connectivity"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 208,
+        "name": "GigaByte Laptop Model 373",
+        "category": "TV",
+        "brand": "Visionary",
+        "price": 102.46,
+        "stock": 15,
+        "features": [
+            "Touchscreen display",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 209,
+        "name": "Infinity Router Model 622",
+        "category": "Headphones",
+        "brand": "GigaByte",
+        "price": 183.04,
+        "stock": 133,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled",
+            "Wireless connectivity",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 210,
+        "name": "Infinity Gaming Console Model 689",
+        "category": "Router",
+        "brand": "ElectroMax",
+        "price": 1205.34,
+        "stock": 222,
+        "features": [
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 211,
+        "name": "CyberWare Gaming Console Model 416",
+        "category": "Gaming Console",
+        "brand": "TechCorp",
+        "price": 1986.37,
+        "stock": 391,
+        "features": [
+            "AI-powered assistant",
+            "Fast charging",
+            "Bluetooth enabled",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 212,
+        "name": "Visionary TV Model 314",
+        "category": "Smartwatch",
+        "brand": "ElectroMax",
+        "price": 2000.68,
+        "stock": 349,
+        "features": [
+            "Water resistant",
+            "Wireless connectivity",
+            "4K resolution"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 213,
+        "name": "TechCorp Router Model 534",
+        "category": "Gaming Console",
+        "brand": "HyperGadgets",
+        "price": 2479.03,
+        "stock": 48,
+        "features": [
+            "Wireless connectivity",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 214,
+        "name": "Visionary Speaker Model 494",
+        "category": "Router",
+        "brand": "NanoTech",
+        "price": 1659.71,
+        "stock": 1,
+        "features": [
+            "Compact design",
+            "AI-powered assistant",
+            "Bluetooth enabled",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 215,
+        "name": "Visionary Router Model 377",
+        "category": "Headphones",
+        "brand": "GigaByte",
+        "price": 489.61,
+        "stock": 251,
+        "features": [
+            "Fast charging",
+            "Bluetooth enabled",
+            "Water resistant",
+            "AI-powered assistant",
+            "4K resolution"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 216,
+        "name": "CyberWare Tablet Model 922",
+        "category": "Smartwatch",
+        "brand": "Infinity",
+        "price": 2470.4,
+        "stock": 491,
+        "features": [
+            "Fast charging",
+            "4K resolution",
+            "Touchscreen display",
+            "Long battery life",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 217,
+        "name": "HyperGadgets TV Model 310",
+        "category": "Router",
+        "brand": "NextGen",
+        "price": 2926.81,
+        "stock": 441,
+        "features": [
+            "Touchscreen display",
+            "Wireless connectivity",
+            "Long battery life",
+            "4K resolution"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 218,
+        "name": "TechCorp TV Model 720",
+        "category": "Router",
+        "brand": "CyberWare",
+        "price": 1018.96,
+        "stock": 58,
+        "features": [
+            "Noise cancellation",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 219,
+        "name": "NextGen Smartwatch Model 337",
+        "category": "Smartphone",
+        "brand": "NanoTech",
+        "price": 2594.56,
+        "stock": 314,
+        "features": [
+            "AI-powered assistant",
+            "Fast charging",
+            "4K resolution",
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 220,
+        "name": "Infinity Router Model 905",
+        "category": "Tablet",
+        "brand": "Infinity",
+        "price": 2709.24,
+        "stock": 21,
+        "features": [
+            "Compact design",
+            "AI-powered assistant",
+            "Fast charging",
+            "Touchscreen display",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 221,
+        "name": "SmartTrend Router Model 649",
+        "category": "Gaming Console",
+        "brand": "GigaByte",
+        "price": 820.87,
+        "stock": 199,
+        "features": [
+            "Noise cancellation",
+            "Wireless connectivity",
+            "Long battery life",
+            "Water resistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 222,
+        "name": "HyperGadgets Laptop Model 130",
+        "category": "Gaming Console",
+        "brand": "GigaByte",
+        "price": 2006.81,
+        "stock": 326,
+        "features": [
+            "Fast charging",
+            "Long battery life",
+            "Water resistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 223,
+        "name": "SmartTrend TV Model 317",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 51.05,
+        "stock": 189,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "Long battery life",
+            "Noise cancellation"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 224,
+        "name": "HyperGadgets Laptop Model 999",
+        "category": "TV",
+        "brand": "Infinity",
+        "price": 2626.98,
+        "stock": 159,
+        "features": [
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Wireless connectivity"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 225,
+        "name": "CyberWare Gaming Console Model 231",
+        "category": "Smartphone",
+        "brand": "GigaByte",
+        "price": 2861.84,
+        "stock": 446,
+        "features": [
+            "Bluetooth enabled",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 226,
+        "name": "Infinity Tablet Model 651",
+        "category": "Smartwatch",
+        "brand": "CyberWare",
+        "price": 1694.98,
+        "stock": 201,
+        "features": [
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 227,
+        "name": "SmartTrend Speaker Model 736",
+        "category": "Router",
+        "brand": "GigaByte",
+        "price": 749.47,
+        "stock": 119,
+        "features": [
+            "Water resistant",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 228,
+        "name": "HyperGadgets Camera Model 444",
+        "category": "Smartphone",
+        "brand": "NextGen",
+        "price": 2365.35,
+        "stock": 169,
+        "features": [
+            "Water resistant",
+            "Noise cancellation",
+            "Touchscreen display"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 229,
+        "name": "CyberWare Laptop Model 614",
+        "category": "Laptop",
+        "brand": "Visionary",
+        "price": 2118.45,
+        "stock": 404,
+        "features": [
+            "Touchscreen display",
+            "4K resolution",
+            "AI-powered assistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 230,
+        "name": "ElectroMax Headphones Model 485",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 1231.98,
+        "stock": 204,
+        "features": [
+            "Water resistant",
+            "Bluetooth enabled",
+            "AI-powered assistant",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 231,
+        "name": "HyperGadgets Speaker Model 883",
+        "category": "Gaming Console",
+        "brand": "NextGen",
+        "price": 1607.73,
+        "stock": 268,
+        "features": [
+            "Noise cancellation",
+            "4K resolution"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 232,
+        "name": "Infinity Smartwatch Model 136",
+        "category": "Gaming Console",
+        "brand": "Infinity",
+        "price": 795.45,
+        "stock": 483,
+        "features": [
+            "Long battery life",
+            "AI-powered assistant",
+            "Fast charging",
+            "Touchscreen display"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 233,
+        "name": "HyperGadgets Gaming Console Model 161",
+        "category": "Headphones",
+        "brand": "Visionary",
+        "price": 1966.88,
+        "stock": 384,
+        "features": [
+            "Long battery life",
+            "Wireless connectivity"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 234,
+        "name": "SmartTrend Smartwatch Model 450",
+        "category": "Laptop",
+        "brand": "ElectroMax",
+        "price": 81.72,
+        "stock": 452,
+        "features": [
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Long battery life"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 235,
+        "name": "SmartTrend Router Model 915",
+        "category": "Camera",
+        "brand": "ElectroMax",
+        "price": 392.38,
+        "stock": 84,
+        "features": [
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "Fast charging"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 236,
+        "name": "NextGen Speaker Model 916",
+        "category": "Laptop",
+        "brand": "NanoTech",
+        "price": 677.91,
+        "stock": 142,
+        "features": [
+            "AI-powered assistant",
+            "Long battery life",
+            "4K resolution",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 237,
+        "name": "NanoTech Router Model 210",
+        "category": "Camera",
+        "brand": "Infinity",
+        "price": 2174.54,
+        "stock": 259,
+        "features": [
+            "Wireless connectivity",
+            "AI-powered assistant",
+            "Bluetooth enabled",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 238,
+        "name": "NanoTech Gaming Console Model 300",
+        "category": "TV",
+        "brand": "HyperGadgets",
+        "price": 2675.24,
+        "stock": 395,
+        "features": [
+            "4K resolution",
+            "Touchscreen display",
+            "Long battery life",
+            "Compact design"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 239,
+        "name": "CyberWare Headphones Model 250",
+        "category": "TV",
+        "brand": "NextGen",
+        "price": 2676.26,
+        "stock": 407,
+        "features": [
+            "Wireless connectivity",
+            "Noise cancellation",
+            "Touchscreen display",
+            "Compact design"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 240,
+        "name": "NanoTech Headphones Model 758",
+        "category": "TV",
+        "brand": "CyberWare",
+        "price": 2640.3,
+        "stock": 109,
+        "features": [
+            "Water resistant",
+            "4K resolution",
+            "Compact design"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 241,
+        "name": "Infinity TV Model 524",
+        "category": "Camera",
+        "brand": "GigaByte",
+        "price": 2934.9,
+        "stock": 51,
+        "features": [
+            "Wireless connectivity",
+            "Noise cancellation",
+            "Water resistant",
+            "Bluetooth enabled",
+            "Fast charging"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 242,
+        "name": "NextGen Tablet Model 745",
+        "category": "Smartwatch",
+        "brand": "GigaByte",
+        "price": 245.81,
+        "stock": 320,
+        "features": [
+            "Compact design",
+            "Noise cancellation",
+            "Water resistant",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 243,
+        "name": "SmartTrend Tablet Model 257",
+        "category": "Tablet",
+        "brand": "HyperGadgets",
+        "price": 1032.21,
+        "stock": 352,
+        "features": [
+            "Noise cancellation",
+            "Wireless connectivity",
+            "Fast charging",
+            "4K resolution",
+            "Compact design"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 244,
+        "name": "HyperGadgets Smartphone Model 463",
+        "category": "Gaming Console",
+        "brand": "TechCorp",
+        "price": 919.86,
+        "stock": 419,
+        "features": [
+            "Bluetooth enabled",
+            "AI-powered assistant",
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 245,
+        "name": "CyberWare Smartphone Model 489",
+        "category": "Laptop",
+        "brand": "SmartTrend",
+        "price": 1807.64,
+        "stock": 80,
+        "features": [
+            "4K resolution",
+            "Long battery life",
+            "Wireless connectivity",
+            "AI-powered assistant",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 246,
+        "name": "CyberWare Smartwatch Model 287",
+        "category": "Gaming Console",
+        "brand": "Infinity",
+        "price": 2741.48,
+        "stock": 82,
+        "features": [
+            "Water resistant",
+            "Compact design",
+            "Fast charging",
+            "Wireless connectivity",
+            "Long battery life"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 247,
+        "name": "SmartTrend TV Model 708",
+        "category": "Smartwatch",
+        "brand": "TechCorp",
+        "price": 2459.27,
+        "stock": 485,
+        "features": [
+            "AI-powered assistant",
+            "Long battery life",
+            "Bluetooth enabled"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 248,
+        "name": "HyperGadgets Laptop Model 557",
+        "category": "Tablet",
+        "brand": "HyperGadgets",
+        "price": 270.42,
+        "stock": 392,
+        "features": [
+            "4K resolution",
+            "Water resistant",
+            "Touchscreen display",
+            "AI-powered assistant",
+            "Fast charging"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 249,
+        "name": "Visionary Laptop Model 577",
+        "category": "Speaker",
+        "brand": "NanoTech",
+        "price": 2475.34,
+        "stock": 474,
+        "features": [
+            "Fast charging",
+            "Bluetooth enabled",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 250,
+        "name": "ElectroMax Smartphone Model 107",
+        "category": "Smartwatch",
+        "brand": "NextGen",
+        "price": 388.83,
+        "stock": 462,
+        "features": [
+            "Fast charging",
+            "Wireless connectivity",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 251,
+        "name": "NanoTech Smartwatch Model 558",
+        "category": "Laptop",
+        "brand": "GigaByte",
+        "price": 2575.27,
+        "stock": 154,
+        "features": [
+            "Compact design",
+            "Long battery life",
+            "Bluetooth enabled",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 252,
+        "name": "GigaByte Smartphone Model 933",
+        "category": "Gaming Console",
+        "brand": "ElectroMax",
+        "price": 1999.17,
+        "stock": 171,
+        "features": [
+            "Water resistant",
+            "4K resolution",
+            "Wireless connectivity"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 253,
+        "name": "ElectroMax Laptop Model 456",
+        "category": "Headphones",
+        "brand": "GigaByte",
+        "price": 2509.05,
+        "stock": 115,
+        "features": [
+            "Water resistant",
+            "Long battery life",
+            "Touchscreen display",
+            "Fast charging"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 254,
+        "name": "NanoTech TV Model 362",
+        "category": "Router",
+        "brand": "NanoTech",
+        "price": 91.67,
+        "stock": 225,
+        "features": [
+            "4K resolution",
+            "Long battery life"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 255,
+        "name": "HyperGadgets TV Model 818",
+        "category": "Smartphone",
+        "brand": "TechCorp",
+        "price": 721.5,
+        "stock": 486,
+        "features": [
+            "4K resolution",
+            "Fast charging",
+            "Water resistant",
+            "Compact design",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 256,
+        "name": "Visionary Speaker Model 784",
+        "category": "Router",
+        "brand": "HyperGadgets",
+        "price": 2388.56,
+        "stock": 250,
+        "features": [
+            "Long battery life",
+            "Noise cancellation",
+            "Touchscreen display",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 257,
+        "name": "HyperGadgets Headphones Model 711",
+        "category": "TV",
+        "brand": "GigaByte",
+        "price": 1941.68,
+        "stock": 20,
+        "features": [
+            "Long battery life",
+            "Compact design",
+            "Noise cancellation",
+            "Touchscreen display",
+            "Fast charging"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 258,
+        "name": "GigaByte Gaming Console Model 131",
+        "category": "Speaker",
+        "brand": "GigaByte",
+        "price": 1442.61,
+        "stock": 109,
+        "features": [
+            "AI-powered assistant",
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "Water resistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 259,
+        "name": "SmartTrend Speaker Model 594",
+        "category": "Laptop",
+        "brand": "TechCorp",
+        "price": 543.64,
+        "stock": 132,
+        "features": [
+            "Noise cancellation",
+            "Compact design"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 260,
+        "name": "GigaByte Headphones Model 635",
+        "category": "Router",
+        "brand": "GigaByte",
+        "price": 2469.26,
+        "stock": 338,
+        "features": [
+            "Wireless connectivity",
+            "Bluetooth enabled",
+            "AI-powered assistant",
+            "Noise cancellation"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 261,
+        "name": "TechCorp Camera Model 725",
+        "category": "Speaker",
+        "brand": "NextGen",
+        "price": 1762.24,
+        "stock": 69,
+        "features": [
+            "Noise cancellation",
+            "Compact design"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 262,
+        "name": "GigaByte Smartphone Model 803",
+        "category": "Router",
+        "brand": "CyberWare",
+        "price": 2759.81,
+        "stock": 101,
+        "features": [
+            "Bluetooth enabled",
+            "4K resolution",
+            "Long battery life"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 263,
+        "name": "ElectroMax Router Model 498",
+        "category": "Router",
+        "brand": "Infinity",
+        "price": 510.76,
+        "stock": 3,
+        "features": [
+            "Water resistant",
+            "4K resolution",
+            "Noise cancellation",
+            "AI-powered assistant",
+            "Long battery life"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 264,
+        "name": "ElectroMax Gaming Console Model 402",
+        "category": "Gaming Console",
+        "brand": "NextGen",
+        "price": 2541.29,
+        "stock": 241,
+        "features": [
+            "Noise cancellation",
+            "Fast charging",
+            "Water resistant",
+            "4K resolution",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 265,
+        "name": "SmartTrend Router Model 157",
+        "category": "Smartphone",
+        "brand": "HyperGadgets",
+        "price": 974.11,
+        "stock": 56,
+        "features": [
+            "Bluetooth enabled",
+            "AI-powered assistant"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 266,
+        "name": "NextGen Camera Model 461",
+        "category": "Smartphone",
+        "brand": "NextGen",
+        "price": 411.18,
+        "stock": 247,
+        "features": [
+            "Bluetooth enabled",
+            "Touchscreen display",
+            "Compact design",
+            "AI-powered assistant"
+        ],
+        "warranty": "2 years"
+    },
+    {
+        "id": 267,
+        "name": "Infinity Tablet Model 482",
+        "category": "Smartphone",
+        "brand": "NextGen",
+        "price": 1033.28,
+        "stock": 69,
+        "features": [
+            "Water resistant",
+            "Noise cancellation",
+            "Bluetooth enabled"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 268,
+        "name": "Visionary Smartphone Model 769",
+        "category": "Camera",
+        "brand": "CyberWare",
+        "price": 1158.34,
+        "stock": 265,
+        "features": [
+            "Compact design",
+            "Water resistant",
+            "Touchscreen display",
+            "Fast charging",
+            "Wireless connectivity"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 269,
+        "name": "NanoTech Tablet Model 470",
+        "category": "Headphones",
+        "brand": "Visionary",
+        "price": 2898.16,
+        "stock": 293,
+        "features": [
+            "4K resolution",
+            "Long battery life",
+            "Fast charging",
+            "Touchscreen display",
+            "Noise cancellation"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 270,
+        "name": "Infinity Smartwatch Model 647",
+        "category": "Gaming Console",
+        "brand": "ElectroMax",
+        "price": 2577.04,
+        "stock": 285,
+        "features": [
+            "Touchscreen display",
+            "Compact design",
+            "Noise cancellation"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 271,
+        "name": "SmartTrend Tablet Model 406",
+        "category": "Gaming Console",
+        "brand": "CyberWare",
+        "price": 1235.22,
+        "stock": 320,
+        "features": [
+            "Fast charging",
+            "4K resolution",
+            "Touchscreen display",
+            "Bluetooth enabled",
+            "AI-powered assistant"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 272,
+        "name": "NanoTech Laptop Model 709",
+        "category": "Tablet",
+        "brand": "CyberWare",
+        "price": 2457.67,
+        "stock": 57,
+        "features": [
+            "Compact design",
+            "Bluetooth enabled",
+            "Fast charging",
+            "Water resistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 273,
+        "name": "NextGen Tablet Model 292",
+        "category": "Speaker",
+        "brand": "TechCorp",
+        "price": 1837.49,
+        "stock": 245,
+        "features": [
+            "Bluetooth enabled",
+            "Noise cancellation",
+            "Wireless connectivity"
+        ],
+        "warranty": "5 years"
+    },
+    {
+        "id": 274,
+        "name": "HyperGadgets Laptop Model 704",
+        "category": "TV",
+        "brand": "TechCorp",
+        "price": 713.47,
+        "stock": 352,
+        "features": [
+            "AI-powered assistant",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 275,
+        "name": "GigaByte Speaker Model 382",
+        "category": "Camera",
+        "brand": "CyberWare",
+        "price": 907.3,
+        "stock": 425,
+        "features": [
+            "4K resolution",
+            "Bluetooth enabled"
+        ],
+        "warranty": "3 years"
+    },
+    {
+        "id": 276,
+        "name": "CyberWare Speaker Model 174",
+        "category": "Smartphone",
+        "brand": "CyberWare",
+        "price": 2975.34,
+        "stock": 215,
+        "features": [
+            "Wireless connectivity",
+            "Bluetooth enabled",
+            "Compact design",
+            "AI-powered assistant"
+        ],
+        "warranty": "4 years"
+    },
+    {
+        "id": 277,
+        "name": "CyberWare Headphones Model 294",
+        "category": "Camera",
+        "brand": "HyperGadgets",
+        "price": 2202.03,
+        "stock": 421,
+        "features": [
+            "Fast charging",
+            "Long battery life",
+            "Noise cancellation"
+        ],
+        "warranty": "1 years"
+    },
+    {
+        "id": 278,
+        "name": "Infinity Gaming Console Model 407",
+        "category": "Headphones",
+        "brand": "SmartTrend",
+        "price": 2101.66,
+        "stock": 369,
+        "features": [
+            "Wireless connectivity",
+            "Touchscreen display"
+        ],
+        "warranty": "5 years"
+    }
+]

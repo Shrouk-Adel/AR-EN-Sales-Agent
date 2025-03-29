@@ -1,0 +1,17 @@
+python-dotenv
+sentence-transformers
+huggingface_hub
+langchain_community
+langchain 
+ollama
+faiss-cpu
+langchain_ollama 
+chromadb
+transformers
+jq
+langchain_groq
+langchain_huggingface
+bitsandbytes
+langdetect
+fastapi
+uvicorn
