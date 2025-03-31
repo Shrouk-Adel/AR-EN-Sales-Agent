@@ -41,6 +41,8 @@ This project leverages several powerful AI models:
 2. **BAAI/bge-m3**: Embedding model for vector representation of documents
 3. **CohereForAI/aya-expanse-8b**: Main language model for generating responses in both Arabic and English (4-bit quantized)
 
+![Screen Recording 2025-03-31 033711](https://github.com/user-attachments/assets/1bd0301a-8427-42e3-98e9-7be03dc0e783)
+
 ## Installation
 
 ```bash
